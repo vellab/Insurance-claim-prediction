@@ -5,6 +5,8 @@ The dataset consists of 116 categorical features (each one named with a generic 
 
 The training data consisted of 188318 examples and the testing data consisted of 125546 examples.
 
+The data can be obtained from: https://www.kaggle.com/c/allstate-claims-severity/data
+
 The code will take you through the steps of exploration, visualization and transformation of data and finally evaluation of different of models for regression.
 
 
